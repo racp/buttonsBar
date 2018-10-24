@@ -1,0 +1,7 @@
+{
+  "name": "buttonsBar",
+  "short_name": "buttonsBar",
+  "description": "Buttons bar",
+  "start_url": "/",
+  "display": "standalone"
+}
